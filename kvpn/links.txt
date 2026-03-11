@@ -1,0 +1,3 @@
+https://kuzyafonk.github.io/kvpn/conf1.txt
+https://kuzyafonk.github.io/kvpn/conf2.txt
+https://kuzyafonk.github.io/kvpn/conf3.txt
